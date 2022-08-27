@@ -26,8 +26,10 @@
         }
     </style>
   </head>
+
+ <body>
  
-  <div class="header">
+<div class="header">
   <h2>Larry Whitehouse</h2>
 </div>
 
@@ -35,10 +37,6 @@
   <div class="column" style="background-color:#aaa;">Angel</div>
   <div class="column" style="background-color:#bbb;">Column</div>
   <div class="column" style="background-color:#ccc;">Column</div>
-</div>
-
-<div class="footer">
-  <p>Footer</p>
 </div>
 
 </body>
