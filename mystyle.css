@@ -28,6 +28,10 @@ body {
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
+div {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, cursive;
+}
 
 /* Style the footer */
 .footer {
