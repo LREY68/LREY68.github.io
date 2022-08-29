@@ -8,7 +8,7 @@
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script> 
   
-    <title >Larry Whitehouse</title>
+    <title >Family/title>
 
     <style>
         header {
@@ -27,8 +27,8 @@
     </style>
   </head>
  
-  <div class="header">
-  <h2>Larry Whitehouse</h2>
+  <div id="logo"; class="header"; Style="background-color:#06B848";>
+  <h2>Madison Reynolds</h2>
 </div>
 
 <div class="row">
