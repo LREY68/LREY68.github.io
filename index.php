@@ -26,10 +26,11 @@
         }
     </style>
   </head>
- 
-  <div id="logo"; class="header"; Style="background-color:#06B848";>
-  <h2>Madison Reynolds</h2>
+<header> 
+  <div id="logoheader"; Style="background-color:#06B848";>
+  <img src="2headround.jpg" alt="Profile Pic" width= "auto" height="2"50px>
 </div>
+    </header>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">Angel</div>
