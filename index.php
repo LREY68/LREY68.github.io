@@ -27,8 +27,8 @@
     </style>
   </head>
 <header> 
-  <div id="logoheader"; Style="background-color:#06B848";>
-  <img src="Mlogo.jpg" alt="Profile Pic" width= "auto" height="2"50px>
+  <div id="logoheader"; Style="background-color:deeppink";>
+  <img src="Mlogo.jpg" alt="Profile Pic" width= "auto" height="250px">
 </div>
     </header>
 
