@@ -14,6 +14,8 @@ body {
   font-size: 35px;
 }
 
+#logoheader {display: block; font-family: Broadway; background-color: #11162a; padding: 5px; border-bottom: 5px solid #253f4b; height: 250; width: auto;}
+
 /* Container for flexboxes */
 .row {
   display: -webkit-flex;
